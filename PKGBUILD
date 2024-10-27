@@ -13,7 +13,7 @@ md5sums=('SKIP')
 
 package() {
     # 进入项目源目录
-    cd "$srcdir/$pkgname"
+    cd "$srcdir/TUICalculator"
     
     # 确保 dist 目录存在
     if [ -d "dist" ]; then
