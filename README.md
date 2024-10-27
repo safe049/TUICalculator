@@ -90,10 +90,13 @@ TUICalculator is a Python-based terminal calculator that features a modern inter
 1. Ensure you have Python 3.x installed on your system.
 2. Download or clone the code to your local machine.
 3. Run the following command in your terminal:
-
-   'python3 calc.py'
+```bash
+   python3 calc.py
+```
    or
+```bash
    ' ./calc '
+```
 
 4. Use keyboard navigation to select buttons and input mathematical expressions.
 
@@ -107,10 +110,10 @@ TUICalculator is a Python-based terminal calculator that features a modern inter
 ## Testing
 
 This project includes unit tests to verify the prefix addition functionality for mathematical functions. You can run the tests with the following command:
-
-'python3 calc.py --test'
-'./calc --test'
-
+```bash
+python3 calc.py --test
+./calc --test
+```
 ## Contributing
 
 Feel free to submit issues and requests!
