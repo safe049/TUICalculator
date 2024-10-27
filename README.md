@@ -1,6 +1,6 @@
 # TUICalculator - 一款简单的终端计算器
 
-
+![screenshot](https://github.com/safe049/TUICalculator/Shot-2024-10-27-205326.png)
 [English Version](#TUICalculator---A-Simple-Terminal-Calculator)
 ## 项目介绍
 
@@ -66,6 +66,7 @@ MIT License
 # TUICalculator - A Simple Terminal Calculator
 
 [中文版](#TUICalculator---一款简单的终端计算器)
+![screenshot](https://github.com/safe049/TUICalculator/Shot-2024-10-27-205326.png)
 
 ## Project Overview
 
