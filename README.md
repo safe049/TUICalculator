@@ -43,7 +43,7 @@ TUICalculator 是一个基于 Python 的终端计算器，采用现代化的界�
 - 按下 `=` 计算结果。
 - 按下 `Quit` 退出程序。
 
-## 测试
+## 测试 [ 已移除 ]
 
 该项目包含单元测试，用于验证数学函数的前缀添加功能。可通过运行以下命令执行测试：
 
@@ -108,7 +108,7 @@ TUICalculator is a Python-based terminal calculator that features a modern inter
 - Press `=` to compute the result.
 - Press `Quit` to exit the program.
 
-## Testing
+## Testing [ REMOVED ]
 
 This project includes unit tests to verify the prefix addition functionality for mathematical functions. You can run the tests with the following command:
 ```bash
