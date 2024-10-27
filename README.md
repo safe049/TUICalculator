@@ -22,6 +22,7 @@ TUICalculator 是一个基于 Python 的终端计算器，采用现代化的界�
 
 ## 安装与运行
 
+支持AUR: tui-calculator
 1. 确保你的系统中已安装 Python 3.x。
 2. 将代码下载或克隆到本地计算机。
 3. 在终端中运行以下命令：
@@ -88,6 +89,7 @@ TUICalculator is a Python-based terminal calculator that features a modern inter
 
 ## Installation and Running
 
+AUR: tui-calculator
 1. Ensure you have Python 3.x installed on your system.
 2. Download or clone the code to your local machine.
 3. Run the following command in your terminal:
